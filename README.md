@@ -13,7 +13,7 @@ There is no grade or review for this training, so feel free to explore at your o
 
 ## When you are finished
 
-Once you have completed the training, you’re free to end there with your new knowledge. Or, after you have spent some using GitHub in your classroom, you may want to consider becoming a GitHub Campus Advisor.
+Once you have completed the training, you’re free to end there with your new knowledge. Or, after you have spent some time using GitHub in your classroom, you may want to consider becoming a GitHub Campus Advisor.
 
 GitHub Campus Advisors are a community of educator leaders who champion industry tools in their classroom. As a Campus Advisor, you’ll:
 - Join a collaborative network that allows you to learn from your peers, see how they’re supporting their classrooms, and share your own tips
